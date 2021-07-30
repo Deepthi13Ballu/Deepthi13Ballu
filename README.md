@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Deepthi13Ballu
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning python
+- 🌱 My Skills are Python,C,HTML5,CSS,Bootstrap,JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chaithanya.ballu@gmail.com
 
